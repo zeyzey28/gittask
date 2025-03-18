@@ -1,5 +1,6 @@
-First of all I got issued from case sensivity. I realized that the importances of case sensivity. 
+First of all, I encountered issues with case sensitivity and realized its importance.
 
-The secont problem was Personal Access Token (PAT)
-I generated the PAT from Github and pushed my first commit to github succesfuly 
+The second problem was related to the Personal Access Token (PAT). I generated a PAT from GitHub and successfully pushed my first commit.
 
+The third issue I faced was that empty folders were not being pushed to GitHub. To solve this, I created .gitkeep files in these folders using the command:
+touch img/.gitkeep tests/.gitkeep
