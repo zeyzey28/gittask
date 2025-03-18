@@ -6,3 +6,7 @@ The third issue I faced was that empty folders were not being pushed to GitHub. 
 touch img/.gitkeep tests/.gitkeep
 
 ![desc](img/steps1.png)
+![desc](img/steps2.png)
+![desc](img/steps3.png)
+![desc](img/steps4.png)
+![desc](img/steps5.png)
